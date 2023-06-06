@@ -12,5 +12,5 @@ Pasos para ejecutar proyecto:
 2. Tomar la carpeta ```dist``` y desplegarla
 
 # abrir proyecto
-1. Abrir en hhtp://localhost:3000
+1. Abrir en http://localhost:3000
 
